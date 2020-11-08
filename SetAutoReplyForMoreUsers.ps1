@@ -9,7 +9,7 @@
     .COMPONENT
         Requires Module ActiveDirectory
     .LINK
-        GITHUBLINK #TODO
+        https://github.com/neohunter92/Scripts
     .Parameter ConnectionUri
         Specifies the link for the exchange server.
         [sr-de] Exchange Verbindungslink.

@@ -9,7 +9,7 @@
     .COMPONENT
         Requires Module ActiveDirectory
     .LINK
-        GITHUBLINK #TODO
+        https://github.com/neohunter92/Scripts
     .Parameter Path
         Specifies the path for the userhome folder
         [sr-de] Pfad für den Userhome Ordner
